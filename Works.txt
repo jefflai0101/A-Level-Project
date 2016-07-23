@@ -1,0 +1,14 @@
+[Others]
+*Simplfy the codes~
+
+=================================Done==================================
+[Stock]
+[Sales]
+[Users]
+[Login]
+[Orders]
+[Reports]
+[Members]
+[Mainmenu]
+[Backup/Archive]
+[Change password]
